@@ -4,7 +4,7 @@ MS in Computer Science @ California State University, San Bernardino (May 2026)
 Los Angeles, CA | Open to Relocation across the U.S.
 Seeking: Entry-Level Data Engineer | Data Analyst
 
-ajayamankantumuchu@gmail.com | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+ajayamankantumuchu@gmail.com | [LinkedIn](https://linkedin.com/in/ajayaman-k)
 
 ---
 
