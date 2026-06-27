@@ -64,7 +64,7 @@ Currently on **F-1 OPT** and actively seeking data engineering or data analyst r
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Spotify Big Data Pipeline](https://github.com/Ajayaman2627/spotify-bigdata-pipeline) | Scalable medallion architecture pipeline (Bronze/Silver/Gold) processing 1M+ Spotify streaming records in Databricks | PySpark · Databricks · Delta Lake · Spark SQL |
+| [Amazon Ecommerce Data Pipeline](https://github.com/Ajayaman2627/spotify-bigdata-pipeline) | Scalable medallion architecture pipeline (Bronze/Silver/Gold) processing 1M+ Amazon ecommerce transaction records in Databricks | PySpark · Databricks · Delta Lake · Spark SQL |
 | [Payroll Management System](https://github.com/Ajayaman2627/payroll-management-system) | Desktop payroll app with normalized MySQL schema (6 tables), JDBC backend, DAO architecture, and Java Swing UI | Java · MySQL · JDBC · Java Swing |
 | [Academic Advisor Chatbot](https://github.com/Ajayaman2627/academic-advisor-chatbot) | NLP-powered chatbot automating student queries with database-backed intent classification | Python · NLP · SQL · Flask |
 | [Road Accident Prediction](https://github.com/Ajayaman2627/road-accident-prediction) | SVM-based ML model for accident risk classification using environmental and traffic features | Python · SVM · Scikit-learn |
